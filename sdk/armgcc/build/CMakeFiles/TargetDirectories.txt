@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/Soubory/PraxeNXP/praxe-nxp/projekt/sdk/armgcc/build/CMakeFiles/lvgl_guider.elf.dir
+C:/Users/admin/Desktop/Soubory/PraxeNXP/praxe-nxp/projekt/sdk/armgcc/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/Soubory/PraxeNXP/praxe-nxp/projekt/sdk/armgcc/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Desktop/Soubory/PraxeNXP/praxe-nxp/projekt/sdk/Core/utilities/fsl_memcpy.S
+
+C:/Users/admin/Desktop/Soubory/PraxeNXP/praxe-nxp/projekt/sdk/armgcc/startup/startup_MCXN947_cm33_core0.S
+
